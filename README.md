@@ -1,8 +1,8 @@
 # AutoupdateCoderankings
-"This repository houses an autoupdate leaderboard script crafted with Google's Apps Script. It fetches and updates ratings from LeetCode, CodeChef, and Codeforces every hour, providing a dynamic showcase of programming prowess. Stay ahead of the curve with this efficient and reliable tool for tracking coding excellence."
+"I have created an innovative autoupdate leaderboard script designed to simplify the process of updating leaderboards. Crafted with Google's Apps Script, this script fetches and updates ratings from LeetCode, CodeChef, and Codeforces every hour. It provides a dynamic showcase of programming prowess, allowing users to stay ahead of the curve in tracking coding excellence effortlessly."
 
 How it works??
-Just copy paste the Code form CoderankingsAppscript.gs and paste in your Googleappscript
+Just copy paste the Code form AutoupdateCoderankings/src/Codingrankings.gs and paste in your Googleappscript
 Make sure to Change the SheetID and Sheetname 
 
 Sheet input should be 
