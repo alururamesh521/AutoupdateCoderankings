@@ -7,3 +7,6 @@ Make sure to Change the SheetID and Sheetname
 
 Sheet input should be 
 ![Screenshot 2024-05-22 110950](https://github.com/alururamesh521/AutoupdateCoderankings/assets/142136138/a2da6d2b-4297-4e4e-b0b5-dae45317886b)
+After running the Google apprscript 
+The Sheet will update as below
+
