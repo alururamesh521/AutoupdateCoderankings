@@ -17,12 +17,6 @@ The Sheet will update as below
 
 Set a Trigger for autoupdate on hourly based in ur script 
 To set the Trigger in GoogleAppscript Follow the below steps
-
-![Screenshot 2024-05-22 111032](https://github.com/alururamesh521/AutoupdateCoderankings/assets/142136138/a6972da4-693a-42b2-95ce-777ae6130f11)
-
-![Screenshot 2024-05-22 111049](https://github.com/alururamesh521/AutoupdateCoderankings/assets/142136138/4b0e6497-f7ad-4e7d-8f3d-d380a5cab9a5)
-
-![Screenshot 2024-05-22 111112](https://github.com/alururamesh521/AutoupdateCoderankings/assets/142136138/9de2829b-e5ec-469a-9fc6-0c453bfa8b06)
-
+Triggers> AddTriggers> select event source as Timedriven> time based Trigger as Hour timer> and then save the trigger
 
 Once done with setting Trigger it will autoupdate every hour!!
