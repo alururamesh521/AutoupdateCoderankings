@@ -1,7 +1,7 @@
 // Function to update ratings for all users in the spreadsheet
 function updateRatings(sheetId, sheetName) {
   try {
-    var sheet = SpreadsheetApp.openById('1FvuSlByW2_xIQb7iYLm13WzB57tFNIpX8ML_WI22Pq4').getSheetByName('ContestRatings');
+    var sheet = SpreadsheetApp.openById('SheetID').getSheetByName('SheetName');
     if (!sheet) {
       throw new Error("Sheet '" + sheetName + "' not found.");
     }
